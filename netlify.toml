@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "/tinvay.html"
+  status = 200
+  force = true
