@@ -41,6 +41,12 @@
   force = true   
 
 [[redirects]]
+  from = "/huong-dan-tim-kiem-khoan-vay-online-phu-hop"
+  to = "/bai-viet-7.html"
+  status = 200
+  force = true     
+
+[[redirects]]
   from = "/huong-dan-chi-tiet-vay-tien-online-cho-nguoi-moi"
   to = "/tinvay.html"
   status = 200
