@@ -3,3 +3,9 @@
   to = "/tinvay.html"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/5-cach-vay-tien-online"
+  to = "/bai-viet-1.html"
+  status = 200
+  force = true
