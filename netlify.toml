@@ -38,4 +38,10 @@
   from = "/xu-ly-no-xau-khi-vay-tien-online"
   to = "/bai-viet-6.html"
   status = 200
-  force = true      
+  force = true   
+
+[[redirects]]
+  from = "/huong-dan-chi-tiet-vay-tien-online-cho-nguoi-moi"
+  to = "/tinvay.html"
+  status = 200
+  force = true        
