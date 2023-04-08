@@ -26,4 +26,10 @@
   from = "/cach-lua-chon-khoan-vay-phu-hop"
   to = "/bai-viet-4.html"
   status = 200
-  force = true      
+  force = true     
+
+[[redirects]]
+  from = "/5-buoc-don-gian-dang-ky-vay-tien-online"
+  to = "/bai-viet-5.html"
+  status = 200
+  force = true        
