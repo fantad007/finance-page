@@ -15,3 +15,9 @@
   to = "/bai-viet-2.html"
   status = 200
   force = true  
+
+[[redirects]]
+  from = "/luu-y-truoc-khi-vay-tien-online"
+  to = "/bai-viet-3.html"
+  status = 200
+  force = true    
